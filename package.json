@@ -1,0 +1,22 @@
+{
+  "name": "dashlight",
+  "version": "1.0.0",
+  "description": "A web-based control panel for Belkin WeMo devices built with PHP.",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"There are no tests for this package.\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gyamada619/dashlight.git"
+  },
+  "keywords": [
+    "WeMo"
+  ],
+  "author": "Garrett Yamada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gyamada619/dashlight/issues"
+  },
+  "homepage": "https://github.com/gyamada619/dashlight"
+}
